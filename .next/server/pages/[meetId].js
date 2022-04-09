@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
 
 
-var _jsxFileName = "D:\\React\\Next JS\\meetup\\components\\meetups\\MeetUpDetail.js";
+var _jsxFileName = "E:\\React\\Next JS\\nextjs101\\components\\meetups\\MeetUpDetail.js";
 
 function MeetupDetail(props) {
   return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["Fragment"], {
@@ -157,7 +157,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_meetups_MeetUpDetail__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../components/meetups/MeetUpDetail */ "./components/meetups/MeetUpDetail.js");
 
 
-var _jsxFileName = "D:\\React\\Next JS\\meetup\\pages\\[meetId]\\index.js";
+var _jsxFileName = "E:\\React\\Next JS\\nextjs101\\pages\\[meetId]\\index.js";
 
 
 function MeetUpDetails() {
